@@ -1,18 +1,10 @@
 # 🌐 Internet Status Indicator
 
-<div align="center">
-  
-  ![ISI Logo](https://img.shields.io/badge/ISI-Internet%20Status%20Indicator-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)
-  
-  <h3>Simple. Reliable. Essential.</h3>
-  
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-  [![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-  
-</div>
-
----
+# 🍴 Fork Changes
+This fork adds functionality of Windows Quick Settings on **left click**, and context menu 
+with Network and Internet settings and Advanced network settings options on **right click**.
+The default values of Connected and Disconnected states are changed, from bright red/green
+to softer, muted red/green. Also, it sets the bitmap icon size to 32px by default.
 
 ## 🔍 Overview
 
@@ -106,4 +98,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <div align="center">
   <p><b>Stay connected. Stay informed.</b></p>
   <p>Made with ❤️ by <a href="https://github.com/almas-cp">almas-cp</a></p>
+  <p>Forked and modified by <a href="https://github.com/frim23">normalized</a></p>
 </div>
